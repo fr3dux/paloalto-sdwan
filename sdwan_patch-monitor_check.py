@@ -1,5 +1,8 @@
-# Script em python para consultar métricas de sdwan nos firewalls Palo Alto
-# by Frederico Pereira (fredux/fr3d00x)
+# ===============================================================
+# Script em Python para consulta de métricas SD-WAN em firewalls Palo Alto
+# Coleta dados diretamente dos dispositivos via API
+# Autor: Frederico Pereira (fredux / fr3d00x)
+# ===============================================================
 
 import requests
 import xml.etree.ElementTree as ET
