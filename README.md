@@ -54,23 +54,26 @@ pip install requests matplotlib
 
 # Edite no script o IP e as credenciais do seu firewall
 
-FIREWALL_IP = "192.168.0.1"
-USERNAME = "admin"
-PASSWORD = "sua_senha"
+- FIREWALL_IP = "192.168.0.1"
+- USERNAME = "admin"
+- PASSWORD = "sua_senha"
 
 # Em seguida execute o script
 
 python sdwan_patch-monitor_check-graphic.py
 
 🖼️ Estrutura de saída
-.
-├── PA-Branch01/
-│   ├── ae1.png
-│   ├── ae2.png
-│   └── ...
 
+- ├── PA-Branch01/
+- │   ├── ae1.png
+- │   ├── ae2.png
+- │   └── ...
+
+===============================================
 📅 Versão 1.0 - 06/04/2024
 
 👨‍💻 Autor
 Frederico Pereira (fredux / fr3d00x)
+===============================================
+
 
