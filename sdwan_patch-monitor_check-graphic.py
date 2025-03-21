@@ -1,7 +1,14 @@
-# Script Python que consulta métricas de sdwan nos firewalls Palo alto e gera arquivos de imagem PNG com gráfico dessas métricas
-# O script gera um imagem/métricas para cada interface e as imagens são salvas em uma pasta com o hostname do firewall (ele gera a pasta onde o script for executado)
-# by Frederico Pereira (fredux/fr3d00x) - 06/04/2024
+# =============================================================================
+# Script Python para consulta de métricas SD-WAN em firewalls Palo Alto
+#   Funcionalidade:
+#    - Coleta métricas SD-WAN via API do firewall
+#    - Gera gráficos (PNG) para cada interface monitorada
+#    - Salva as imagens em uma pasta nomeada com o hostname do firewall
+#    - A pasta é criada automaticamente no diretório onde o script é executado
 #
+# Desenvolvido por Frederico Pereira (fredux / fr3d00x)
+# Versão: 06/04/2024
+# =============================================================================
 
 import requests
 import xml.etree.ElementTree as ET
