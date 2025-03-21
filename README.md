@@ -17,7 +17,7 @@ Script em Python que consulta métricas SD-WAN de firewalls Palo Alto via API. I
 ## 📦 Instalando dependencias  
 pip install requests
 
-⚙️ Como usar:
+## ⚙️ Como usar:
 
 ## Edite no script o IP e as credenciais do seu firewall
 
@@ -52,7 +52,7 @@ Script em Python que consulta métricas de SD-WAN via API dos firewalls Palo Alt
 # 📦 Instalando dependencias 
 pip install requests matplotlib
 
-⚙️ Como usar:
+## ⚙️ Como usar:
 
 # Edite no script o IP e as credenciais do seu firewall
 
