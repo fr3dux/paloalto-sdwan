@@ -73,7 +73,7 @@ python sdwan_patch-monitor_check-graphic.py
 📅 Versão 1.0 - 06/04/2024
 
 👨‍💻 Autor
-Frederico Pereira (fredux / fr3d00x)
+- Frederico Pereira (fredux / fr3d00x)
 ===============================================
 
 
