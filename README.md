@@ -21,9 +21,9 @@ pip install requests
 
 # Edite no script o IP e as credenciais do seu firewall
 
-FIREWALL_IP = "192.168.0.1"
-USERNAME = "admin"
-PASSWORD = "sua_senha"
+- FIREWALL_IP = "192.168.0.1"
+- USERNAME = "admin"
+- PASSWORD = "sua_senha"
 
 # Em seguida execute o script
 
