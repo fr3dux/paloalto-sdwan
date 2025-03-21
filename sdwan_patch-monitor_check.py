@@ -1,3 +1,6 @@
+# Script em python para consultar métricas de sdwan nos firewalls Palo Alto
+# by Frederico Pereira (fredux/fr3d00x)
+
 import requests
 import xml.etree.ElementTree as ET
 import urllib3
